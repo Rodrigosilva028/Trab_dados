@@ -1,8 +1,8 @@
 # - "Domicílios com acesso à internet no DF."
-
-## - Introdução.
 - Aluno: Rodrigo Gonçalves da Silva
 - Matrícula: 2111051
+
+## - Introdução.
 - Esse trabalho visa analisar o acesso à internet nos domicílios do DF, no período de 2016 à 2021.
 
 ## - Cama de Gato do futuro.
@@ -14,7 +14,7 @@ Link do miro:https://miro.com/app/board/uXjVPK13Mgk=/
 Link do canvanizer: https://next.canvanizer.com/canvas/r4Ai2DUlrqsck
 
 ## - Vídeo
-Link do vído: https://youtu.be/po2jpqAvMWg
+Link do vídeo: https://youtu.be/po2jpqAvMWg
 
 ## - Banco de dados 
 https://painel.ibge.gov.br/pnadc/
