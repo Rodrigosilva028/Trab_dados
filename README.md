@@ -20,3 +20,4 @@ Link do vído: https://youtu.be/po2jpqAvMWg
 https://painel.ibge.gov.br/pnadc/
 
 ## - Minhas contribuições
+https://github.com/bernardodso/TrabDadosDesmatamento/blob/main/README.md
