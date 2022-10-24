@@ -3,7 +3,7 @@
 ## - Introdução.
 - Aluno: Rodrigo Gonçalves da Silva
 - Matrícula: 2111051
-- Esse trabalho visa analisar o acesso à internet no DF, partindo de 2016 à 2021.
+- Esse trabalho visa analisar o acesso à internet nos domicílios do DF, partindo de 2016 à 2021.
 
 ## - Cama de Gato do futuro.
 
