@@ -20,7 +20,6 @@ Link do vídeo: https://youtu.be/po2jpqAvMWg
 https://painel.ibge.gov.br/pnadc/
 
 - Assim que abrir o link, em "tema" escolha: acesso a TV, internet e Celular.
-- 
 - Na barra "buscar" escolha: DF.
 
 ## - Minhas contribuições
