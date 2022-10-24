@@ -10,6 +10,7 @@
 Link do miro:https://miro.com/app/board/uXjVPK13Mgk=/
 
 ## - Bussiness Model Canvas.
+![image](https://user-images.githubusercontent.com/116168650/197592200-cb2b8732-f202-4524-bd40-46700415f30f.png)
 
 
 ## - Vídeo
