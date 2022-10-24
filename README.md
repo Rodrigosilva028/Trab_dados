@@ -18,8 +18,10 @@ Link do vídeo: https://youtu.be/po2jpqAvMWg
 
 ## - Banco de dados 
 https://painel.ibge.gov.br/pnadc/
--Assim que abrir o link, em "tema" escolha: acesso a TV, internet e Celular.
--Na barra "buscar" escolha: DF.
+
+- Assim que abrir o link, em "tema" escolha: acesso a TV, internet e Celular.
+- 
+- Na barra "buscar" escolha: DF.
 
 ## - Minhas contribuições
 https://github.com/bernardodso/TrabDadosDesmatamento/blob/main/README.md
