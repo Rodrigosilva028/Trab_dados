@@ -14,7 +14,7 @@ Link do miro:https://miro.com/app/board/uXjVPK13Mgk=/
 Link do canvanizer: https://next.canvanizer.com/canvas/r4Ai2DUlrqsck
 
 ## - Vídeo
-
+Link do vído: https://youtu.be/po2jpqAvMWg
 
 ## - Banco de dados 
 https://painel.ibge.gov.br/pnadc/
