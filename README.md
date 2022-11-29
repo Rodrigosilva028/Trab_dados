@@ -17,10 +17,14 @@ Link do canvanizer: https://next.canvanizer.com/canvas/r4Ai2DUlrqsck
 Link do vídeo: https://youtu.be/po2jpqAvMWg
 
 ## - Banco de dados 
-https://painel.ibge.gov.br/pnadc/
+[dados (1).csv](https://github.com/Rodrigosilva028/Trab_dados/files/10116075/dados.1.csv)
+
 
 - Assim que abrir o link, em "tema" escolha: acesso a TV, internet e Celular.
 - Na barra "buscar" escolha: DF.
 
 ## - Minhas contribuições
 https://github.com/bernardodso/TrabDadosDesmatamento/blob/main/README.md
+
+## - colab
+https://colab.research.google.com/drive/1Wsiw_DbExusydXZMArsMemF1gyhzzJHY#scrollTo=X0VH3a9CjoGq
