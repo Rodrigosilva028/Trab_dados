@@ -20,9 +20,6 @@ Link do vídeo: https://youtu.be/po2jpqAvMWg
 [dados (1).csv](https://github.com/Rodrigosilva028/Trab_dados/files/10116075/dados.1.csv)
 
 
-- Assim que abrir o link, em "tema" escolha: acesso a TV, internet e Celular.
-- Na barra "buscar" escolha: DF.
-
 ## - Minhas contribuições
 https://github.com/bernardodso/TrabDadosDesmatamento/blob/main/README.md
 
