@@ -14,7 +14,7 @@ Link do miro:https://miro.com/app/board/uXjVPK13Mgk=/
 Link do canvanizer: https://next.canvanizer.com/canvas/r4Ai2DUlrqsck
 
 ## - Vídeo
-Link do vídeo: https://youtu.be/po2jpqAvMWg
+Link do vídeo:
 
 ## - Banco de dados 
 [dados (1).csv](https://github.com/Rodrigosilva028/Trab_dados/files/10116075/dados.1.csv)
